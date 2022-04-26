@@ -2,8 +2,6 @@
 
 ### Live Demo - https://react-shopping-cart-dev.netlify.app/
 
-# React Table example: Transactions App with react-table v7
-
 ### Clone
 git clone https://github.com/mohitg5210/react-ecommerce
 
