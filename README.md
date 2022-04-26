@@ -1,6 +1,6 @@
 # Shopping Cart Built in React JS with Context API and useReducer
 
-### Live Demo - https://react-shopping-cart-dev.netlify.app/
+### Live Demo - https://shopping-cart-demo-react.netlify.app/
 
 ### Clone
 git clone https://github.com/mohitg5210/react-ecommerce
